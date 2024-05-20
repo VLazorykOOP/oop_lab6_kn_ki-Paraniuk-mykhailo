@@ -1,0 +1,8 @@
+﻿  lab 6.1.7.cpp
+C:\Users\Михайло\Desktop\lab 6.1.7\lab 6.1.7\lab 6.1.7.cpp(34,32): warning C4584: 'PartTimeStudent': base-class 'Student' is already a base-class of 'Intern'
+  C:\Users\Михайло\Desktop\lab 6.1.7\lab 6.1.7\lab 6.1.7.cpp(16,7):
+  see declaration of 'Student'
+  C:\Users\Михайло\Desktop\lab 6.1.7\lab 6.1.7\lab 6.1.7.cpp(22,7):
+  see declaration of 'Intern'
+  
+  lab 6.1.7.vcxproj -> C:\Users\Михайло\Desktop\lab 6.1.7\x64\Debug\lab 6.1.7.exe
